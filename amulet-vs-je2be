@@ -1,0 +1,15 @@
+# Why We Chose Amulet for the Greenfield Conversion
+
+## Why Amulet?
+We’re using Amulet to convert the Greenfield map from Minecraft Java Edition to Bedrock Edition for a few key reasons:
+
+### **What Makes Amulet Stand Out:**
+
+- **Chunk Control:** Amulet lets us manage individual chunks with precision, which is vital given Greenfield's massive size.
+
+- **Entity Handling:** It handles entities and tile entities well, making sure all the important features and details of the map stay intact during the conversion.
+
+- **NBT Data Support:** Amulet can edit NBT data, which helps keep all the essential map details in place.
+
+### **What This Means**
+Choosing Amulet helps us make sure the Greenfield map converts accurately, preserving its complexity and detail. It’s the best tool for the job when dealing with such a large and detailed map.
