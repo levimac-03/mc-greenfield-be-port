@@ -4,23 +4,18 @@ Welcome to the **<span style="color:green;">Greenfield</span>** port. This repos
 
 ## How It Was Done
 
-This conversion was accomplished using **Amulet V0.10.35**. The entire map was carefully converted to ensure it functions correctly in Bedrock Edition. For more information about the tool used, visit [Amulet's official website](https://www.amuletmc.com/).
-
-# Why We Chose Amulet for the Greenfield Conversion
+This conversion was completed using **Amulet V0.10.35** to ensure the map functions correctly in Bedrock Edition. The version converted is **Greenfield v0.5.4**, the latest version available. For more details on the tool, visit [Amulet's official website](https://www.amuletmc.com/).
 
 ## Why Amulet?
-We chose Amulet over JE2BE for converting the Greenfield map from Minecraft Java Edition to Bedrock Edition for a few key reasons:
 
-### **What Makes Amulet Stand Out:**
+Amulet was chosen over JE2BE for several reasons:
 
-- **Chunk Control:** Amulet offers precise management of individual chunks, which is crucial given Greenfield’s extensive size.
+- **Chunk Control:** Precise management of individual chunks, essential for a large map like Greenfield.
+- **Entity Handling:** Effective preservation of entities and tile entities during conversion.
+- **NBT Data Support:** Maintains all crucial map details through the conversion.
 
-- **Entity Handling:** It effectively manages entities and tile entities, ensuring that all important features and details are preserved during the conversion.
+While JE2BE is good for simple conversions, Amulet provides the control and flexibility needed for a complex map like Greenfield.
 
-- **NBT Data Support:** Amulet’s ability to edit NBT data helps maintain all essential map details throughout the conversion process.
+## Download the Bedrock Version
 
-### **Why Not JE2BE?**
-While JE2BE is useful for straightforward conversions, it doesn’t provide the same level of control and flexibility as Amulet. With Amulet, we can handle the complexities of a large map like Greenfield more effectively.
-
-### **What This Means**
-Using Amulet ensures a more accurate and detailed conversion of Greenfield, keeping its intricate design intact. It’s the right tool for the job when dealing with such a large and complex map.
+You can download the Bedrock version of Greenfield v0.5.4 here: [GreenfieldBedrock.mcworld](https://www.mediafire.com/file/wyf1zqvjm0hw1op/GreenfieldBedrock.mcworld/file)
